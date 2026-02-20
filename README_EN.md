@@ -30,10 +30,11 @@ We used a modular structure for the final project:
 ## 🤖 Week 3 Evaluation
 Send your `submission.csv` to **[@datascienceleaguebot](https://t.me/datascienceleaguebot)** to get your RMSE score.
 
-## 🙏 Special Thanks
+## Special Thanks
 * Mohammad Hadi Goli Bidgoli
 * Marzieh Motamednia
 * Parmida Hedayati
 * Soheil Noohi
+* Sobhan Ebrahimi
 
 **Scientific Exploration Working Group - AI Association of Kharazmi University**
